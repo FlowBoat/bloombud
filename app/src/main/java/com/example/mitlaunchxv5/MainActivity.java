@@ -39,5 +39,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(callsThePreferencesClass);
     }
 
-
+    public void updatePlantStatus(long plantId, PlantStatus status) {
+        // Change the things
+    }
 }
