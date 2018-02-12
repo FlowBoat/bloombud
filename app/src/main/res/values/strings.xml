@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MITLaunchX V4</string>
+    <string name="Left"><![CDATA[<<]]></string>
+    <string name="Right"><![CDATA[>>]]></string>
+    <string name="LogoDescription">Logo</string>
+    <string name="PreferencesButtonDescription">Preferences</string>
+    <string name="ListViewButtonDescription">Lists Important Information</string>
+    <string name="NameOfPlantDescription">NameOfPlantDescription</string>
+    <string name="NameOfPlantPrompt">Name Of Plant:</string>
+    <string name="TypeOfPlantPrompt">Type Of Plant:</string>
+    <string name="AddPlantPrompt">Add Plant</string>
+    <string name="ReturnToDashboardButton">Return To Dashboard</string>
+    <string name="ReturnToDashboard">Returns To Dashboard</string>
+    <string name="AddPlantButtonDescription">Adds Plant</string>
+    <string name="Notification1">Notification For Dry Plants</string>
+    <string name="RedirectButtonText">Go to Plant</string>
+
+
+    <string-array name="Type_Of_Plants_Available_Array">
+        <item> Tomato </item>
+        <item> Spinach </item>
+        <item> Carrot </item>
+        <item> Kale </item>
+    </string-array>
+
+
+
+
+</resources>
