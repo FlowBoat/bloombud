@@ -2,6 +2,4 @@
 
 Submission of Bloombud Minimum Viable Product for LaunchX
 
-Android Studio IDE
-
-author: A.Y.
+For more information, please contact CompleteTheSquare
